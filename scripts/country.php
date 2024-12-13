@@ -36,6 +36,3 @@ $country_data = $api->get_country($country);
         <a href="?route=home" class="btn btn-primary px-5">Voltar</a>
     </div>
 </div>
-
-
-<!-- testing -->
